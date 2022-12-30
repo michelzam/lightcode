@@ -7,6 +7,11 @@
 ---
 
 So what ?
+<code> 
+def f():
+    ... 
+</code>
+
 """
 print("Hi")
 """
