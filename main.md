@@ -5,7 +5,7 @@
 1. 3
 
 ----
-
+***<p style="text-align: center;">Text with basic formatting applied</p>***
 <center>Welcome!</center>
 <p style="text-align: center;">A piece of centered text</p>
 
