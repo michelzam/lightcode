@@ -7,7 +7,7 @@
 ----
 <center>Welcome!</center>
 
-![alt text](https://github.com/michelzam/lightcode/blob/main/main.jpg "Our logo")
+![alt text](https://github.com/michelzam/lightcode/blob/main/main.jpg)
 
 <details>
     <summary>Accordion_name</summary>
