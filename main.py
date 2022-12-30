@@ -1,8 +1,8 @@
 """
 ## :smile: Hi there !
 
-- What's new? :eight_pointed_black_star:
-- Almost nothing
+:eight_pointed_black_star:  What's new? 
+Almost nothing
 
 ---
 
