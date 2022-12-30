@@ -7,7 +7,7 @@
 ----
 <center>Welcome!</center>
 
-![alt text](main.png "Our logo")
+![alt text](main.jpg "Our logo")
 
 <details>
     <summary>Accordion_name</summary>
