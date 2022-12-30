@@ -1,7 +1,7 @@
 """
 ## :smile: Hi there !
 
-- What's new? :point_left:
+- What's new? :eight_pointed_black_star:
 - Almost nothing
 
 """
