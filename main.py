@@ -1,7 +1,7 @@
 """
 ## :smile: Hi there !
 
-- What's new???
+- What's new?
 - Almost nothing
 
 """
