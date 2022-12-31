@@ -6,6 +6,8 @@
 1. Hi ... 
 ---
 """
+import math
+
 print("Hi")
 a = 0
 b = a + 1
