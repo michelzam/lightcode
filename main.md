@@ -9,8 +9,9 @@
 
 ![alt text](https://github.com/michelzam/lightcode/blob/29d67cdec34c51411670d090e3067ac28a549ce4/main.jpg)
 <details>
-    <summary>Accordion_name</summary>
-    <p>Accordion_content</p>
+    <summary>Q@A</summary>
+    Q: How to add an image?  
+    A: with a permalink  
     </details>
     
     
