@@ -7,8 +7,8 @@
 ---
 """
 import math
-
-print("Hi")
+print("in")
+f = input("val")
 a = 0
 b = a + 1
 c = 1 
