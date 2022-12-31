@@ -5,10 +5,9 @@
 1. Almost *nothing*
 1. Hi ... 
 ---
-
 """
 
-a, d = 1, 0
+a = 1
 b = 2
 c = a + b
 
