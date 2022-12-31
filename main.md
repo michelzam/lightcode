@@ -15,6 +15,6 @@
     <p>Q: How to add an image? <br>
        A: with a permalink  </p>
     </details>
-    
+      
     
 
