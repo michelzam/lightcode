@@ -8,7 +8,7 @@
 """
 import math
 print("in")
-input("val")
+mpg = input("val")
 a = 0
 b = a + 1
 c = 1 
