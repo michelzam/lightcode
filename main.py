@@ -10,5 +10,6 @@ a = 0
 b = a + 1
 c = 1 
 d = 2
-e = a + b + c + d
+a = b + c
+e = a + d
 
