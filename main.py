@@ -9,10 +9,8 @@
 import math
 print("in")
 mpg = float(input("Input value here:"))
-if mpg > 0:
-    a = 0
-else:
-    a = 2
+
+a = 0
 b = 1
 c = a + b 
 d = c
