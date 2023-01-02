@@ -10,9 +10,8 @@ import math
 print("in")
 mpg = input("Input value here:")
 a = 0
-b = a + 1
-c = 1 
-d = 2
-a = b + c
-e = a + d
+b = 1
+c = a + b 
+d = c
+e = d
 
