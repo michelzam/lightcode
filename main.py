@@ -8,7 +8,7 @@
 """
 import math
 print("in")
-mpg = input("Input value here:")
+mpg = float(input("Input value here:"))
 a = 0
 b = 1
 c = a + b 
