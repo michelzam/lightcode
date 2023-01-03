@@ -12,7 +12,7 @@ mpg = float(input("Input value here:"))
 
 a = 0
 b = 1
-c = a + b 
+c = (a + b) + mpg 
 d = c
 e = d
 
