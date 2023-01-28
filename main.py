@@ -14,13 +14,13 @@
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
+| Header      | :blue[Title]       |
 | Paragraph   | Text        |
    
-     
+
 ---
 """
- 
+  
 import math
 
 
