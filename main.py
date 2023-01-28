@@ -14,10 +14,10 @@
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | :blue[Title]       |
-| Paragraph   | Text        |
+| Header      | :blue[Title] |
+| Paragraph   | `Text'        |
    
-
+ 
 ---
 """
   
