@@ -10,13 +10,14 @@
 ◀️💡▶️
 1. What's **new**?  :eight_pointed_black_star:  
 1. Hi ... 
-1. ==Almost== *nothing*
+1. ===Almost=== *nothing*
 
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
    
+    
 ---
 """
  
