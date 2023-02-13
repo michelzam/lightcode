@@ -1,11 +1,9 @@
 """
-## :smile: Hi ==there== !
-◀️☀️️▶️
-
-Simple script, Murach style
+## Simple script
+# Murach style
  
 ---
-"""
+""" 
   
 import math
 import pandas
