@@ -22,6 +22,7 @@
 """
   
 import math
+import pandas
 
 
 def hello(msg: str) -> str:
