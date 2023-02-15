@@ -1,8 +1,6 @@
-# Calculate the quotient
+# :smile: Calculate the quotient
 
-
-
-def main():
+def calculate_quotient():
     # get user input
     dividend = int(input("Divident: "))
     divisor = int(input("Divisor: "))
@@ -13,5 +11,21 @@ def main():
     print(f"{dividend = }")
     print(f"{remainder = }")
 
-main()
+    return remainder
 
+def accumulate():
+    # housekeeping
+    acumulator = 0
+
+    for i in range(5):
+        print(f"Collecting integer pair {i + 1}")
+        acumulator += calculate_quotient()
+
+    print(f"{acumulator = }")
+
+def main():
+    # main loop
+
+    accumulate()
+
+main()
