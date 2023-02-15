@@ -1,23 +1,17 @@
-"""
-# Simple script
-## Murach style
-
-""" 
- 
-import math
-import pandas
+# Calculate the quotient
 
 
-def hello(msg: str) -> str:
-    return str
 
-print("in")
-mpg = float(input("Input value here:"))
+def main():
+    # get user input
+    dividend = int(input("Divident: "))
+    divisor = int(input("Divisor: "))
 
-x = hello("world")
+    quotient = dividend // divisor
+    remainder = dividend % divisor
 
-a = 0 
-b = 1
-c = (a + b) + mpg 
-d = c
-e = d + a 
+    print(f"{dividend = }")
+    print(f"{remainder = }")
+
+main()
+
