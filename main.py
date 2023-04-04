@@ -1,31 +1,8 @@
 # :smile: Calculate the quotient
 
-def calculate_quotient():
-    # get user input
-    dividend = int(input("Divident: "))
-    divisor = int(input("Divisor: "))
+a = 2
 
-    quotient = dividend // divisor
-    remainder = dividend % divisor
+b = 3
 
-    print(f"{dividend = }")
-    print(f"{remainder = }")
+c = a + b
 
-    return remainder
-
-def accumulate():
-    # housekeeping
-    acumulator = 0
-
-    for i in range(5):
-        print(f"Collecting integer pair {i + 1}")
-        acumulator += calculate_quotient()
-
-    print(f"{acumulator = }")
-
-def main():
-    # main loop
-
-    accumulate()
-
-main()
