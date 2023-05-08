@@ -1,4 +1,4 @@
-### Welcome to Lighcode ◀️💡▶️
+### Welcome to Lightcode ◀️💡▶️
 
 💎 A self-directed, purpose-driven and gamified learning adventure.
 
